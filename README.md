@@ -1,3 +1,11 @@
+# Screenshots 
+
+
+<img width="946" alt="tictac" src="https://github.com/houssam12321/tic-tac/assets/129847735/7be7aaab-e450-4cac-b109-6b57b9af5ffd">
+<img width="940" alt="tictac22" src="https://github.com/houssam12321/tic-tac/assets/129847735/1da95e26-1604-4673-9335-8bc95aefbd39">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
