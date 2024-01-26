@@ -1,3 +1,7 @@
+# Tic-Tac-Toe React App
+
+This is a simple implementation of the classic Tic-Tac-Toe game using React. It allows two players to take turns marking the spaces in a 3x3 box, aiming to get three of their symbols in a row.
+
 # Screenshots 
 
 
